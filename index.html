@@ -1,17 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
+  <title>swipe-system-database</title>
   <meta charset="utf-8">
-  <title>Redirecting...</title>
-  
+
   <meta name="google-site-verification" content="ZnGglD4I-m58ZW9WgtCadlj8Ev-j1EaJZ5T61ZvG6ZU" />
-  
-  <meta http-equiv="refresh" content="0; URL=https://docs.google.com/document/d/e/2PACX-1vRUQJgThmv9fAwxnj4v23CfCk0lzV2zFqrwoMc7S8H5uwFkseWrdlHY56vcnOry4beJvEWLmDvrVpxg/pub">
-  
-  <link rel="canonical" href="https://www.new-website-url.com/">
 </head>
 <body>
-  <h1>Redirecting...</h1>
-  <p>If you are not redirected automatically, follow this <a href="https://www.new-website-url.com/">link to the new site</a>.</p>
+
+  <div id="content-container">
+    {% capture content_to_render %}
+      {% include doc_content.md %}
+    {% endcapture %}
+
+    {{ content_to_render | markdownify }}
+  </div>
+    
 </body>
 </html>
