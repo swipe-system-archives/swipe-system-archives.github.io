@@ -18,7 +18,7 @@ Then I didn’t really like the name since it’s really too hard to pronounce. 
 
 I wanted to keep the SS sound, so I thought of System, and then made it Swipe System. I did this because I changed the story to like Ethan Duster (my oc) as a doctor making a world changing surgery where you can swap bodies, and the gesture on a screen, is to do a swipe\!
 
-“Absolute Cinema” yeah sure whatever.
+“Absolute Cinema”
 
 But yeah the Swipe System got changed a bunch of times to the point where it’s just all in one. Not a doctor show, a game show, or a villain fighting crime show. A random show that’s coordinated to an extent.
 
@@ -1008,8 +1008,25 @@ He just asks nicely like, “hey red could you get us some juice?”
 125. Dollar Cryptograph  
 126. Fee Inscription  
 127. Nico Bradlee  
-128. Kaleb  
-129. Darwin W. Hoster
+128. Kaleb Bradlee  
+129. Darwin W. Hoster  
+130. Mercury Dennis Morningshine  
+131. Alex H. Stringeater  
+132. Biff Blueman  
+133. Jiff Redman  
+134. Takaquar R. Mustard  
+135. Hyperlink  
+136. D.R. Plasma Faceless   
+137. Broccoli Blackcoat  
+138. What’s Holding Up The Line?  
+139. Valkman Ifelt  
+140. Saddy  
+141. One  
+142. LiminalTolentino  
+143. Fly And Go Forehead In Image Ick World (flying overhead in a magic world)  
+144. Penelope T. Get  
+145. SuperNico  
+146. 
 
 # **NEW SHOW?\!?\!?\!?\!?\!??\!?\!?\!?\!?\!?\!?\!?\!??\!?**
 
@@ -1151,16 +1168,6 @@ Eliza and Bronze are fourth cousins.
 Ethan Glockenspiel Duster IS and always WILL BE and always HAS BEEN the absolute UNIT of POWER and GOOD and NO ONE will EVER be able to have a CHANCE at BEATING\* HIM. (\*with the exceptions of Willow Quint, Hammerman, Loserman, and Bob Obvious Stickmond due to reasons as love and free will)  
 67 is canonically tuff in this universe.  
 This is probably the biggest piece of lore in all of literature. Or at least it’s somewhere up there.
-
-# **Unfortunate Events as of 2025**
-
-* Earth is getting darker because it is reflecting less sunlight. This was studied by NASA using  24 years of data.  
-* One of the biggest internet outages in history on October 20\.  
-* People are boycotting Halloween due to candy prices. Honestly they aren’t that bad but definitely priced up a bit.  
-* Maverick Trevillian, aka, the 67 kid, pulled a big cryptoscam.  
-* The U.S. government is still shut down as of October 22nd.  
-* It is ALREADY October 22nd.  
-* Sora V2 was released, which makes hyperrealistic AI videos.
 
 # **NEW UPDATES\!\!\! Part 2**.
 
