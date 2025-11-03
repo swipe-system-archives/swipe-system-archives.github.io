@@ -1054,7 +1054,7 @@ He just asks nicely like, “hey red could you get us some juice?”
 115. Mr. Berth  
 116. Fire  
 117. Shovel  
-118. Billy Duster \[note: i do not remember making any ‘billy duster’ who on aethel is billy duster? did i actually think that billy duster was a good character idea?\]  
+118. Billy Duster \[note: i do not remember making any ‘billy duster’ who in the aethel is billy duster? did i actually think that billy duster was a good character idea? ‘billy duster’ who is this guy?\]  
 119. Death  
 120. Famine  
 121. War  
