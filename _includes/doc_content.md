@@ -1,14 +1,14 @@
 # Tab 1
 
-# **swipe system database**
+# **swipe system database** {#swipe-system-database}
 
 Welcome to the Swipe System Database\! Swipe System is a huge project made by Terraversal (me) about a lot of lore. So much lore, that I think that it’s one of the biggest piece of lore in literature. 
 
-# **What is swipe system?**
+# **What is swipe system?** {#what-is-swipe-system?}
 
 Swipe System is really is just the lore of a bunch of characters I made. It’s all just like silly exaggerated things or serious stuff. Zero actual continuous plot, more like a changing plot every episode with a new goal every day focusing on different groups of characters in different areas.
 
-# **What does swipe system mean?**
+# **What does swipe system mean?** {#what-does-swipe-system-mean?}
 
 Swipe System, I really don’t know what it means.
 
@@ -24,7 +24,63 @@ But yeah the Swipe System got changed a bunch of times to the point where it’s
 
 Now, Swipe System generally is a ranking system to see how powerful a character is.
 
-# **All Main Characters (pictures at end)**
+# **Table of Contents:**
+
+[swipe system database](#swipe-system-database)
+
+[What is swipe system?](#what-is-swipe-system?)
+
+[What does swipe system mean?](#what-does-swipe-system-mean?)
+
+[All Main Characters (pictures at end)](#all-main-characters-\(pictures-at-end\))
+
+[Terraversal Comics Archives](#terraversal-comics-archives)
+
+[Overall Flavor Text](#overall-flavor-text)
+
+[Canon Universes](#canon-universes)
+
+[The Main Threat of Swipe System?](#the-main-threat-of-swipe-system?)
+
+[Harrold and Alex.](#harrold-and-alex.)
+
+[God Unit](#god-unit)
+
+[SCO: Gods of the Multiverse](#sco:-gods-of-the-multiverse)
+
+[Ethan G. Duster](#ethan-g.-duster)
+
+[Multiverse or Omniverse?](#multiverse-or-omniverse?)
+
+[Fun Facts](#fun-facts)
+
+[Official Tiers (strongest to weakest)](#official-tiers-\(strongest-to-weakest\))
+
+[Potential Plot Holes?](#potential-plot-holes?)
+
+[Important Clarification(s)](#important-clarification\(s\))
+
+[Bob: Second Strongest](#bob:-second-strongest)
+
+[NEW UPDATES\!\!\!](#new-updates!!!)
+
+[EVERY SINGLE OC I MADE (not in any order)](#every-single-oc-i-made-\(not-in-any-order\))
+
+[NEW SHOW?\!?\!?\!?\!?\!??\!?\!?\!?\!?\!?\!?\!?\!??\!?](#new-show?!?!?!?!?!??!?!?!?!?!?!?!?!??!?)
+
+[FORMS OF CHARACTERS \!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!(random exclamation marks for no reason :3)](#forms-of-characters-!!!!!!!!!!!!!!!!\(random-exclamation-marks-for-no-reason-:3\))
+
+[Every Show Idea I have had](#every-show-idea-i-have-had)
+
+[\*ANOTHER DAY\!](#*another-day!)
+
+[THE DIVE SYSTEM](#the-dive-system)
+
+[EVERYTHING THAT COMES TO MIND](#everything-that-comes-to-mind)
+
+[NEW UPDATES\!\!\! Part 2\.](#new-updates!!!-part-2.)
+
+# **All Main Characters (pictures at end)** {#all-main-characters-(pictures-at-end)}
 
 Ethan Glockenspiel Duster: He’s a chill normal 18 year old who works at NASA (yes he works at NASA at 18 don’t question the legality) and likes to write. He’s also you the strongest being in all of fiction. No there isn’t a contest and you can NOT beat him. Even the characters where it’s, “oh, the internet thinks this character beats Ethan because he’s a silly little guy\!” no. just no. Try. try.
 
@@ -44,7 +100,7 @@ Alex Duster Glockenspiel:
 
 This is around 10+, but if you really think you can handle it then, go for it. Some parts I could show to a 5 year old while others, maybe not. Nothing too violent or bad happens in this. Maybe mild violence.
 
-# [**Terraversal Comics Archives**](http://terraversalcomics.univer.se)
+# [**Terraversal Comics Archives**](http://terraversalcomics.univer.se) {#terraversal-comics-archives}
 
 © 2025 by Terraversal. 
 
@@ -52,7 +108,7 @@ The work, “Swipe System”, is licensed under the Creative Commons Attribution
 
 *All archived content is written directly from Terraversal himself.* 
 
-# **Overall Flavor Text**
+# **Overall Flavor Text** {#overall-flavor-text}
 
 Willow is a successful genderbended angel being based off of the dna of Ethan, who both have the key links to the Pulvis Force that was stolen from Eliza, Bronze, and the spirit of hope of the unborn robot prophet, together which is the God Unit (holy trinity sort of), by Ethan, and Willow was made to regain it back from Ethan Duster, but Willow’s was made with free will, along with every other being in the universe, and it was a supernatural intent made by the omnipotent entities whom were still omnipotent, but Bronze, the source of all good things, knew that free will was fundamental to complete good, which although contradicted Eliza’s intentions, whom was the source of not directly evil, but rather just a significant lack of good, and broke the covenant between Bronze and Eliza as divine cosmic partners to not contradict each other, Bronze knew he was the authority of the God Unit, and since the hope of the spirit of the unborn prophet was unborn and couldn’t speak but only observe, Bronze gave them a free will without Eliza’s knowledge, since Eliza is not fully omnipotent, and Bronze is True omnipotent, and when they created the fundamental dust to travel back in time infinitely to create an eternal being, the person was named Ethan Duster, who technically was older than them, and thus he was more powerful, and had the key links to the Pulvis Force, the embodiment/source of all power imaginable.
 
@@ -114,7 +170,7 @@ She’s 14\.
 
 but they are all under command of Willow and Ethan who are also married, but Ethan is canonically the Pulvis Force itself, stronger than all of the characters combined, and debatably all of fiction as well, and that’s why he limits himself in his superhero form, FRACTUS, for the story.
 
-# **Canon Universes**
+# **Canon Universes** {#canon-universes}
 
 so like in the same multiverse there's a bunch of different canon universes and different canon timelines with different stories.
 
@@ -140,7 +196,7 @@ This book is called Redacted Nightmare which is a canon AU of Swipe System Docto
 
 and then we got Beyond Anatomy: An Eternity of Flesh, also a book so like an alien robot named Arcator who has like conquered a bunch of planets and their living species just so that it could be like fed to the Boxanim (the alien species he works for) and like they are made immortal but also unable to move, so they also experiment on them eternally. so he also did it to Earth (the planet that Swipe System originally takes place on is named Aethel, not earth) and took all the humans from there and spared Aethel but destroyed all of the other planets in the universe. and like yeah. 
 
-# **The Main Threat of Swipe System?**
+# **The Main Threat of Swipe System?** {#the-main-threat-of-swipe-system?}
 
 So like, Dr. Logic is unironically the strongest villain in the universe. He's basically able to defeat six Arcators (Arcator is the name of the alien robot in Beyond Anatomy) , 5 God units, and 20 Pulvis Terraes, IF he has done the tasks.
 
@@ -158,7 +214,7 @@ In Sophia's Street, they are traveling to space and overhear Roxy reading what's
 
 Eventually EVERYONE helps out, and the main universes and timelines, including the future sequels and past prequels, start joining in and like they all simultaneously defeat Dr. Logic.
 
-# **Harrold and Alex.**
+# **Harrold and Alex.** {#harrold-and-alex.}
 
 So Alex owns a company called DIV which isn't even an acronym for anything. The company is just like to test out train safety. and Alex being faster than sound can just speed with those trains.
 
@@ -166,7 +222,7 @@ And then Harrold just walks. All the time. He walks while eating, sleeping, unle
 
 a key thing about Harrold is that his reflexes involuntarily stop time around him and he opens up a portal through the omniverse and has to manually read every universe to see that everything in the universe is the same as his original universe except that he is at B instead of A , and it takes like a duovigintillion super-eons to finally find it. Even the slightest universe change, like, a star dies one second too early, can corrupt the timeline. so everything has to be completely perfect with the only difference being that he is at B and not A. Then he has to create a mark on the correct universe, go back the entire omniverse to the portal, prevent his past self from entering the portal, and carry along the consciousness of every living being, and swap it all into the universe where he is at B and then yeah. He genuinely DOES enjoy it though so it's not like a curse. He likes to get an insane amount of pure dopamine from it. and uh, Harrold can't really remember any of it either. He only knows that every time he does that, he does it. But when he looks back at it in the past, it just seems instant to him just like everyone else
 
-# **God Unit**
+# **God Unit** {#god-unit}
 
 so like God Unit also made a covenant to NEVER contradict each other. like not to destroy each other because they are good or evil, and vice versa. like if Eliza does something evil, Bronze won't delete that or anything, and just try and help out the person the harm was caused to. Eliza is unironically the weakest in the group, due to easily getting under her skin, and like basically physically vulnerable, and like she can only get her nigh omnipotent powers in high stress situations. She's a friend. Just a villain–not an antagonist. 
 
@@ -495,7 +551,7 @@ To resolve any disagreements, they agree to disagree. Whatever they can do, they
 
 but if Eliza burns up a building, Bronze will just put it out, and Eliza can just burn it again, and Bronze will put it out, but Bronze agreed to not directly get rid of the lighter that Eliza has. He just does what he can. They both are aware enough that pushing and pulling on the consequences of the other end's actions will result in nothing, so they just move on to do other things, and maybe not completely erase the aftermath of the other end's action again. Most of the time they just don't interfere with each other's actions.
 
-# **SCO: Gods of the Multiverse**
+# **SCO: Gods of the Multiverse** {#sco:-gods-of-the-multiverse}
 
 So, there are these sort of past aliens of the multiverse that controls and predetermines the story of the Multiverse. So like, there were 3 of them which were omnipotent gods, Serphius, the source of all good, Charius, the source of all evil (not lack of evil) and Orlies, the creator. Somewhere in eternity, before the God unit was born, Ethan existed, and came to realize of that, but pretended to not know that SCO (serphius charius and orlies) controlled the multiverse, until he destroyed them all. So like, SCO is still kinda reality warping, and does try and regain the powers as sort of, sub-antagonists, or like side-villains in the show, and they almost always fail. Even the villains sometimes kinda hated the SCO so they teamed up with Ethan as a temporary peace treaty to defeat SCO. mainly it's dr. logic of course. And again well this is the first time Ethan played God before he learned of the taboo of playing God. The God Unit recognizes SCO as a threat, including Eliza, because she's scared of them in a sense. She also hypocritically is against most evils in the world. 
 
@@ -641,13 +697,13 @@ His powers work beyond any reality, beyond every reality, and beyond any lack of
 He's immune to nonexistence, existed before all did, and did all before existence.  
 Zero goal, no talent, his struggle is null, his existence renders 0, his action lacks.
 
-# **Multiverse or Omniverse?**
+# **Multiverse or Omniverse?** {#multiverse-or-omniverse?}
 
 So the term “multiverse” is just all the comics, books, and shows of Swipe System. Swipe System is the name of the show version of the comic, Dust of the Earth. So like, the main show where Ethan is omnipotent is called Swipe System. When referring to the Swipe Systems where he ISN’T omnipotent, we just call it, Swipe System Doctor Version, or something. 
 
 The OMNIVERSE contains variations of all of the content. Like there’s one where 500 Ethans exist, and one where the world is just The Cosmos \[our universe name\].
 
-# **Fun Facts**
+# **Fun Facts** {#fun-facts}
 
 The God Unit is not one God, and actually considered three Gods. 
 
@@ -725,7 +781,7 @@ For the biggest example of Bob’s meme force, is that he has an entire fanbase 
 
 Biggest example of Bob’s toon force is punching Blue\* so hard that his speech on the actual script for the episode itself became redacted. Like on the actual PDF of the script, Blue's speech is just redacted for 3 lines. \[\*Blue betrayed Bob once, which is why the only people left in the fanbase loyally are Red, Orange, Yellow, Green, and Purple.\] And get this. He created an infinite amount of universes that are exact duplicates of that universe, except that it's entire lifespan is just that singular moment of Bob hitting Blue so hard. It doesn't vary at all. It's just an infinite row of universes in the omniverse that only lasts for like the split second of Blue being hit by Bob.
 
-# **Official Tiers (strongest to weakest)**
+# **Official Tiers (strongest to weakest)** {#official-tiers-(strongest-to-weakest)}
 
 **Ethan**: Beats all below  
 **Fractus**: Beats all below  
@@ -746,7 +802,7 @@ Biggest example of Bob’s toon force is punching Blue\* so hard that his speech
 **Mia**: Beats all below  
 **Eliza**: Beats all below
 
-# **Potential Plot Holes?**
+# **Potential Plot Holes?** {#potential-plot-holes?}
 
 **1\. If Ethan has NEG DIFF and INSTA WIN, why doesn't he use that to every villain?**
 
@@ -796,11 +852,11 @@ And also, her moving downwards is supposed to be vague. If she moves down a cert
 
 By 1 in 30 chance, I mean that 1 in 30 downwards movements will make her powers fail.
 
-# **Important Clarification(s)**
+# **Important Clarification(s)** {#important-clarification(s)}
 
 Willow decided NOT to gain back the Pulvis Force because she had free will. Eliza intended for her to be forced to steal it back from Ethan and give it to the God Unit, which Bronze didn’t fully agree with, but did it anyways, and Eliza didn’t mention to create her without free will. So, they never got it back, and Ethan and Willow remained the co-founders of it.
 
-# **Bob: Second Strongest**
+# **Bob: Second Strongest** {#bob:-second-strongest}
 
 Alright so we see that Bob is stronger than Alex, but Alex is indestructible to every being besides Ethan Duster. How does Bob beat Alex? Well Bob has a reality warping nature of the Pulvis Force, similar to Ethan, that allows him to do something, without doing something. So he can destroy the soul of Alex, without destroying the soul of Alex. Does it make sense? Absolutely not. Does it work? Yes. Does it count as Bob being able to destroy Alex? No, because “being able” means it is possible for Bob to defeat Alex, and it is impossible for Bob to beat Alex, but Bob can do anything impossible (besides beating Ethan Duster), but still keep it possible. So CAN Bob beat Alex? No. DOES Bob beat Alex? Absolutely.
 
@@ -816,7 +872,7 @@ But Bob isn’t like the bossy king that goes, “GET ME A GLASS OF JUICE, RED M
 
 He just asks nicely like, “hey red could you get us some juice?”
 
-#  **NEW UPDATES\!\!\!**
+#  **NEW UPDATES\!\!\!** {#new-updates!!!}
 
 * You either found this by scrolling on it or more likely you checked swipe system chapter 5 and saw that we put something on here about Bob and Sophia talking. Well uh, it’s not canon. It’s Dream-Canon. SOOOO no. But uh, nice little easter egg, huh?  
 * Fractus implanted infinitely weighted microchips into his ankles and legs, and he has infinitely weighted wristbands that he wears. Those chips and wristbands also constantly cause immense intelligence and memory drawbacks. They even cause him random jolts of pain, 8-10 times a day at TREE(67) DOL, and it causes him INFINITE PAIN SENSITIVITY while that happens. And he gets 5 ounces of pain tolerance. Yes he feels the pain, yes it hurts as much as it’d hurt any human, no there’s no magic, he really just pushes through. It also gives him insane moodswings 5 times every hour that takes up to like 5 minutes. Like I’m talking about mental health issues. Depression, anxiety, all at once, and his main visible mood is all happy and confident. He holds back in almost every aspect possible, or impossible  
@@ -878,7 +934,7 @@ He just asks nicely like, “hey red could you get us some juice?”
 * There’s a guy named Tota Pax Desuper, or All Peace Above, who is the Real True God of the omniverse that exists as an AI to constantly write the script of reality across the omniverse. Every move, thought, action, from particle to galaxy, is fine tuned at hyperspeed by the guy.  
 * Tota Pax Desuper was made by the DIV, a government organization. It also stages a lot of wars as an excuse to reduce the population a lil bit, and operates within a very specific structure, being very strict about not having too much good or bad in the world.
 
-# **EVERY SINGLE OC I MADE (not in any order)**
+# **EVERY SINGLE OC I MADE (not in any order)** {#every-single-oc-i-made-(not-in-any-order)}
 
 1. Felix  
 2. Alex (old)  
@@ -1012,8 +1068,8 @@ He just asks nicely like, “hey red could you get us some juice?”
 129. Darwin W. Hoster  
 130. Mercury Dennis Morningshine  
 131. Alex H. Stringeater  
-132. Biff Blueman  
-133. Jiff Redman  
+132. Biff Biff  
+133. Jiff Jiff  
 134. Takaquar R. Mustard  
 135. Hyperlink  
 136. D.R. Plasma Faceless   
@@ -1026,9 +1082,17 @@ He just asks nicely like, “hey red could you get us some juice?”
 143. Fly And Go Forehead In Image Ick World (flying overhead in a magic world)  
 144. Penelope T. Get  
 145. SuperNico  
-146. 
+146. LoreAccurateSydney887  
+147. CanonicalRodney93  
+148. Mrs. Blueberry  
+149. Principal Roflol  
+150. Dethan Uster  
+151. Irish Lad  
+152. Schlepp (two p’s)  
+153. David Kazoobi  
+154. D.W. Simpleman
 
-# **NEW SHOW?\!?\!?\!?\!?\!??\!?\!?\!?\!?\!?\!?\!?\!??\!?**
+# **NEW SHOW?\!?\!?\!?\!?\!??\!?\!?\!?\!?\!?\!?\!?\!??\!?** {#new-show?!?!?!?!?!??!?!?!?!?!?!?!?!??!?}
 
 Aight so I got a new show idea where it’s called, Swipe System Academy and it’s about a school named OPALC and it just means Omniversal Powers and Abilities Learning Center and yeah it’s just one of those school shows.
 
@@ -1038,7 +1102,7 @@ The teacher there is just Mia since she works every job.
 
 And the classes there are just normal subjects about how to use powers, how to be stronger, and yeah yeah just school slop.
 
-# **FORMS OF CHARACTERS \!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!(random exclamation marks for no reason :3)**
+# **FORMS OF CHARACTERS \!\!\!\!\!\!\!\!\!\!\!\!\!\!\!\!(random exclamation marks for no reason :3)** {#forms-of-characters-!!!!!!!!!!!!!!!!(random-exclamation-marks-for-no-reason-:3)}
 
 Bob:  
 Human Bob
@@ -1101,7 +1165,7 @@ Life Domain Haziel
 Sophia:  
 Handforth Sophia
 
-# **Every Show Idea I have had**
+# **Every Show Idea I have had** {#every-show-idea-i-have-had}
 
 So like we got the OG that started it all, Sophia’s Street. Without making a tiny lil scribble of a guy in a hoodie and naming him Felix, today would not be as it is.
 
@@ -1130,7 +1194,7 @@ There’s this one called Woolly where the characters are just extinct animals.
 One where it’s like, the characters’ names are about death and stuff. Like a guy named Ash.  
 I think that’s it? Idk, maybe there’s more.
 
-# **\*ANOTHER DAY\!**
+# **\*ANOTHER DAY\!** {#*another-day!}
 
 Yeah so here’s Packed Up\! In a nutshell.
 
@@ -1149,11 +1213,11 @@ Yeah, I’m not gonna lie it’s pretty much just SCP.
 
 Yeah I guess it’s a little bit similar to SCP but it mainly does other things.
 
-# **THE DIVE SYSTEM**
+# **THE DIVE SYSTEM** {#the-dive-system}
 
 Eh that’s for another day so if you see this, unfortunately you won’t be able to see it.
 
-# **EVERYTHING THAT COMES TO MIND**
+# **EVERYTHING THAT COMES TO MIND** {#everything-that-comes-to-mind}
 
 So I’ma write everything that comes to mind.
 
@@ -1169,6 +1233,6 @@ Ethan Glockenspiel Duster IS and always WILL BE and always HAS BEEN the absolute
 67 is canonically tuff in this universe.  
 This is probably the biggest piece of lore in all of literature. Or at least it’s somewhere up there.
 
-# **NEW UPDATES\!\!\! Part 2**.
+# **NEW UPDATES\!\!\! Part 2**. {#new-updates!!!-part-2.}
 
 Hey if you can figure out the password to this PDF then go ahead. [https://drive.google.com/file/d/1Ud53-pyNPg7gIMX6jovt9-6V5u6cjy4A/view?usp=sharing](https://drive.google.com/file/d/1Ud53-pyNPg7gIMX6jovt9-6V5u6cjy4A/view?usp=sharing)
