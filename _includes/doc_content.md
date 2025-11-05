@@ -154,7 +154,7 @@ then like a david and goliath scene will play out when 4 omnipotent beings start
 
 I think Bob is like the second strongest character to Ethan Duster. Third if you count the Abrahamic God in Revelation. then in that case it'd be God, Ethan, and Bob. but God doesn't really count as a "fictional character" because that's subjective, and it is a biblically inaccurate one, so he's not a character within the show, and more of a mentioned being.
 
-Then there’s also Sophia Planks who’s like, the daughter of Arcator, and niece of Ethan, 
+Then there’s also Sophia Planks who’s like, the daughter of Arcator, and niece/cousin/daughter of Ethan, 
 
 She is a kind and sweet ***existent being.***
 
@@ -906,7 +906,7 @@ He just asks nicely like, “hey red could you get us some juice?”
 * This is a post apocalyptic timeline where humanity slowly evolves backwards after reaching their peak abilities. After that, Ethan decides to take the leftover DNA of humans and bring them up into Emberland (heaven) and then gives them some Pulvis Force abilities, and then he takes some of Japan and America, and puts it on Neptune, and grows the land to make Neptune habitable. Then like, Japan grows bigger than America, and that’s Bob’s mansion that he calls, the Mansion of Bob, and America is slightly smaller, and Ethan just names it America. The only state name he didn’t change is New York. But then humanity on earth re-evolves through the same thing and develops the same technology, which is when Arcator discovers Earth, and destroys it.  
 * Arcator is capable of creating enough galaxies to form a multiverse. He can create galaxies so heavy that it can change the outcome of something. All outcomes are unintentionally controlled by the galaxies Arcator makes for fun  
 * Harrold is now omnipotent  
-* Ethan has a niece, named Sophia Planks, who is the daughter of Ethan’s long lost biological brother named Matt Planks, aka, Arcator.  
+* Ethan has a cousin/niece/daughter, named Sophia Planks, who is the daughter/cousin/niece of Ethan’s long lost biological brother named Matt Planks, aka, Arcator. Arcator adopted his aunt’s daughter.  
 * During a war, Arcator sends Sophia to Aethel so that she's safe, and Ethan takes care of her.  
 * Sophia is a tsundere to Bob.  
 * Here are the ages.
