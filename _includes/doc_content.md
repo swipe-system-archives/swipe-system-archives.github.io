@@ -984,7 +984,7 @@ He just asks nicely like, “hey red could you get us some juice?”
 46. Remy  
 47. Ethan (robot)  
 48. Pulvis Terrae  
-49. Oscar  
+49. Oscar John Murphy  
 50. Red  
 51. Orange  
 52. Yellow  
