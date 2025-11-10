@@ -443,7 +443,7 @@ Ethan (non alter ego human) Ethan doesn't necessarily play God, but when he figh
 **FREE WILL OVERRIDE:** Can change his opponent’s actual free will, and is not just mind control.  
 **UNCOPYABLE POWERS:** His powers cannot be copied.  
 **UNCONTRADICTABLE NATURE:** No matter how much you bend logic, or how much logic you create, or destroy, Ethan's powers and nature cannot and will not be contradicted across all realities.  
-**NATURE NEGATION:** Can negate anyone’s powers or nature   
+**NATURE NEGATION: **Can negate anyone’s powers or nature   
 **INFINITE POWER MIMICKRY:** Can mimic any person’s powers or nature, and make it infinitely more effective on his end, and if it is already an infinite sum of effectiveness, he makes it beyond infinite.  
 **INSTANT APPLICATION:** His powers, with a few exceptions like SCENARIO REVERSAL, are beyond instantly applied at the beginning of the fight.  
 **TRANSCENDENT GROWTH:** He grows beyond infinitely more powerful every infinitely small instant.  
