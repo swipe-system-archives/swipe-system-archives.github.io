@@ -1236,3 +1236,5 @@ This is probably the biggest piece of lore in all of literature. Or at least it�
 # **NEW UPDATES\!\!\! Part 2**. {#new-updates!!!-part-2.}
 
 Hey if you can figure out the password to this PDF then go ahead. [https://drive.google.com/file/d/1Ud53-pyNPg7gIMX6jovt9-6V5u6cjy4A/view?usp=sharing](https://drive.google.com/file/d/1Ud53-pyNPg7gIMX6jovt9-6V5u6cjy4A/view?usp=sharing)
+
+* Sophia is actually Ethan’s COUSIN. Arcator was also Sophia’s cousin, but he adopted her. Him adopting Sophie caused the war that actually forced Sophia to be adopted to Ethan. So they really are cousins.
